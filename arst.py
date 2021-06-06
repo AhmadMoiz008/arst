@@ -106,3 +106,6 @@ if __name__ == "__main__":
         # decode the secret data from the image
         decoded_data = decode(input_image)
         print("[+] Decoded data:", decoded_data)
+        
+if __name__ == '__main__':
+	main()
